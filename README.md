@@ -1,6 +1,6 @@
 # Forcasting-Solar-Energy-with-Prophet
 
-![Solar Panels](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolarbright.com.au%2F4-common-solar-panel-problems-in-australia-and-how-to-avoid-them%2F&psig=AOvVaw108cCscIe3a3IEhVKpUZyU&ust=1726240231570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCFx5LYvYgDFQAAAAAdAAAAABAE)
+![Solar Panel](https://www.cnet.com/a/img/resize/19394aca4affc504651051d009160d0c0d216218/hub/2022/10/10/f2ff9ef7-f016-459d-b88a-a8a68270c315/solar-gettyimages-525206743.jpg?auto=webp&fit=crop&height=675&width=1200)
 
 # Introduction
 
