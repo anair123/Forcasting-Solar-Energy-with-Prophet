@@ -1,5 +1,6 @@
 # Forcasting-Solar-Energy-with-Prophet
-https://www.google.com/imgres?q=solar%20panels&imgurl=https%3A%2F%2Fsolarnaturally.com.au%2Fwp-content%2Fuploads%2F2017%2F03%2Fsolar-panel-array-power-sun-electricity-159397-1.jpeg&imgrefurl=https%3A%2F%2Fsolarnaturally.com.au%2Feverything-need-know-solar-panels-perth%2F&docid=u0bnwbNifWCThM&tbnid=9vnhe_FQ9TkS6M&vet=12ahUKEwiKvOnN172IAxV0h1YBHU9rGwEQM3oECB4QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiKvOnN172IAxV0h1YBHU9rGwEQM3oECB4QAA
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolarbright.com.au%2F4-common-solar-panel-problems-in-australia-and-how-to-avoid-them%2F&psig=AOvVaw108cCscIe3a3IEhVKpUZyU&ust=1726240231570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCFx5LYvYgDFQAAAAAdAAAAABAE
 
 # Introduction
 
